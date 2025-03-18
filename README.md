@@ -33,7 +33,7 @@ A simple Employee Management System built with VB.NET and SQL Server, allowing u
 The application includes a Print Function, allowing users to print Employee Details directly from the application.
 📷 Screenshots
 SCREENSHOTS
-(https://github.com/sandeepdev/EmployeeManagementSystem/blob/main/screenshots/splashScreen.png)
+!(https://github.com/sandeepdev/EmployeeManagementSystem/blob/main/screenshots/splashScreen.png)
 💡 Future Improvements
 
 🔹 Export employee data to Excel/PDF
