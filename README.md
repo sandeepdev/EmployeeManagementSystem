@@ -35,7 +35,7 @@ The application includes a Print Function, allowing users to print Employee Deta
 SCREENSHOTS
 <div style="display: flex; justify-content: space-around;">
 <img src="screenshots/splashScreen.png" alt="screenshot" width="200"/>
-<img src="screenshots/Login.png" alt="screenshot" width="200"/>
+<img src="screenshots/Login.png" alt="screenshot" width="200",height="350/>
 <img src="screenshots/HomeScreen.png" width="200"/>
 <img src="screenshots/Employee.png" width="200"/>
 <img src="screenshots/EmployeeDetails.png" alt="screenshot" width="200"/>
