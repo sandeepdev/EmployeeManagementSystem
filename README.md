@@ -20,7 +20,7 @@ A simple Employee Management System built with VB.NET and SQL Server, allowing u
 
     Clone this repository:
 
-    git clone https://github.com/yourusername/EmployeeManagementSystem.git
+    git clone https://github.com/yourusername/EmployeeManagementSystem.git](https://github.com/sandeepdev/EmployeeManagementSystem/tree/main
 
     Open the project in Visual Studio.
     Restore NuGet Packages (if needed).
