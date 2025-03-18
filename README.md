@@ -37,8 +37,8 @@ SCREENSHOTS
 <img src="screenshots/splashScreen.png" alt="screenshot" width="400" height="400"/>
 <img src="screenshots/Login.png" alt="screenshot" width="400"height="400"/>
 <img src="screenshots/HomeScreen.png" width="400" height="400"/>
-<img src="screenshots/Employee.png" width="200" height="400"/>
-<img src="screenshots/EmployeeDetails.png" alt="screenshot" width="200",height="400"/>
+<img src="screenshots/Employee.png" width="400" height="400"/>
+<img src="screenshots/EmployeeDetails.png" alt="screenshot" width="400",height="400"/>
 <img src="screenshots/EmployeeSalaryData.png" alt="screenshot" width="400",height="400"/>
 
 
